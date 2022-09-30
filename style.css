@@ -43,7 +43,7 @@ img:hover {
         background: linear-gradient(to right,#101935, #171c2c);
         text-align: center;
         overflow: hidden;
-        margin-top: 50px;
+        margin-top:20px;
     }
     
     button {
